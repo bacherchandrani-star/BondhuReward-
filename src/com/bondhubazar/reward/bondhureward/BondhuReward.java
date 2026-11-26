@@ -12,8 +12,7 @@ import com.google.appinventor.components.runtime.EventDispatcher;
 
 // Extension পরিচয়
 @Extension(
-    description = "Bondhu Bazar Reward and Wallet Manager",
-    version = 1
+    description = "Bondhu Bazar Reward and Wallet Manager"
 )
 
 public class BondhuReward extends AndroidNonvisibleComponent {
